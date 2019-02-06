@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.tvkings2"
+       name="[COLOR darkgrey]TV Kings[/COLOR]"
+       version="5.0"
+       provider-name="TV Kings">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR darkgrey]TV Kings Premium atoztvkings.mancavekodi.com[/COLOR]</summary>
+    <language>en</language>
+    <description lang="en">[COLOR darkgrey]TV Kings[/COLOR] Official Addon - The Future of Great Quality and Stable Streams - for more info go to [COLOR yellowgreen]atoztvkings.mancavekodi.com[/COLOR]. Regards, TV kings Team.</description>
+     <platform>all</platform>
+  </extension>
+</addon>
