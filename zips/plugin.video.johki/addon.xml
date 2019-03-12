@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.johki" name="Johki's Wrestling" version="2.2" provider-name="WhizKid">
+<addon id="plugin.video.johki" name="Johki's Wrestling" version="2.3" provider-name="WhizKid">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
